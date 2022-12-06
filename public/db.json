@@ -1,68 +1,66 @@
-{
-	"motels":
-	[
-		{
-			"id":1,
-			"name": "The Blue Swallow",
-			"address": "Tucumcari, New Mexico",
-			"phone": 2034567894,
-			"total_rooms": 60,
-			"average_cost": "$150 to $200",
-			"rating": 4.9,
-			"isAnyRoomAvailable": true
-		},
-		{
-			"id":2,
-			"name": "Thunderbird Inn",
-			"address": "Savannah, Georgia",
-			"phone": 4756852301,
-			"total_rooms": 40,
-			"average_cost": "$120 to $150",
-			"rating": 4.7,
-			"isAnyRoomAvailable": false
-		},
-		{
-			"id":3,
-			"name": "Austin Motel",
-			"address": "Austin, Texas",
-			"phone": 4223085242,
-			"total_rooms": 70,
-			"average_cost": "$180 to $200",
-			"rating": 4.8,
-			"isAnyRoomAvailable": true
-		},
-		{
-			"id":4,
-			"name": "The Sunset Motel",
-			"address": "Brevard, North Carolina",
-			"phone": 5754023048,
-			"total_rooms": 90,
-			"average_cost": "$200 to $250",
-			"rating": 4.9,
-			"isAnyRoomAvailable": false
-		},
-		{
-			"id":5,
-			"name": "The Blake",
-			"address": "New Haven, Connecticut",
-			"phone": 4753608420,
-			"total_rooms": 40,
-			"average_cost": "$80 to $150",
-			"rating": 4.5,
-			"isAnyRoomAvailable": true
-		},
-		{
-			"id":6,
-			"name": "The Westville",
-			"address": "West HAven, Connecticut",
-			"phone": 4753608255,
-			"total_rooms": 30,
-			"average_cost": "$100 to $200",
-			"rating": 4.6,
-			"isAnyRoomAvailable": true
-		}
-	]
-	
-	
-	
-}
+
+[
+	{
+		"id":1,
+		"name": "The Blue Swallow",
+		"address": "Tucumcari, New Mexico",
+		"phone": 2034567894,
+		"total_rooms": 60,
+		"average_cost": "$150 to $200",
+		"rating": 4.9,
+		"isAnyRoomAvailable": true
+	},
+	{
+		"id":2,
+		"name": "Thunderbird Inn",
+		"address": "Savannah, Georgia",
+		"phone": 4756852301,
+		"total_rooms": 40,
+		"average_cost": "$120 to $150",
+		"rating": 4.7,
+		"isAnyRoomAvailable": false
+	},
+	{
+		"id":3,
+		"name": "Austin Motel",
+		"address": "Austin, Texas",
+		"phone": 4223085242,
+		"total_rooms": 70,
+		"average_cost": "$180 to $200",
+		"rating": 4.8,
+		"isAnyRoomAvailable": true
+	},
+	{
+		"id":4,
+		"name": "The Sunset Motel",
+		"address": "Brevard, North Carolina",
+		"phone": 5754023048,
+		"total_rooms": 90,
+		"average_cost": "$200 to $250",
+		"rating": 4.9,
+		"isAnyRoomAvailable": false
+	},
+	{
+		"id":5,
+		"name": "The Blake",
+		"address": "New Haven, Connecticut",
+		"phone": 4753608420,
+		"total_rooms": 40,
+		"average_cost": "$80 to $150",
+		"rating": 4.5,
+		"isAnyRoomAvailable": true
+	},
+	{
+		"id":6,
+		"name": "The Westville",
+		"address": "West HAven, Connecticut",
+		"phone": 4753608255,
+		"total_rooms": 30,
+		"average_cost": "$100 to $200",
+		"rating": 4.6,
+		"isAnyRoomAvailable": true
+	}
+]
+
+
+
