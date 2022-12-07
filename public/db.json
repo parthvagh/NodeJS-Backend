@@ -1,4 +1,6 @@
-
+{
+	"motels":
+	
 [
 	{
 		"id":1,
@@ -61,6 +63,4 @@
 		"isAnyRoomAvailable": true
 	}
 ]
-
-
-
+}
